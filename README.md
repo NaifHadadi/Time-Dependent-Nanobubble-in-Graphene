@@ -1,7 +1,7 @@
 # Time-Dependent Quantum Transport in Graphene with Strain-Induced Nanobubbles
 
 ![image](https://github.com/user-attachments/assets/1b32d16b-ccb7-4d47-ac8a-4db694ac881d)
-![image](https://github.com/user-attachments/assets/0c7ddecd-762a-4b66-9c1e-cd6086276d39)
+![image](https://github.com/user-attachments/assets/7c93c1c8-946f-4cf1-b5f7-37912d25b529)
 
 ## Description
 This project simulates quantum transport in graphene with time-dependent strain induced by a nanobubble deformation. The code reproduces the published simulations in the paper Pseudo Electric Field and Pumping Valley Current in Graphene Nano-bubbles:
