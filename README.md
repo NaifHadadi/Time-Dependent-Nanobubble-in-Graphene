@@ -17,7 +17,7 @@ The system models:
 - **Time-dependent perturbation** (oscillating nanobubble height)
 
 Key features:
-- MPI-parallelized computation using `mpi4py` and T-Kwant
+- MPI-parallelized computation using `mpi4py` and Tkwant
 - Charge and valley current calculations
 - Strain-modulated hopping parameters
 
