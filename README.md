@@ -21,3 +21,6 @@ Key features:
 - Charge and valley current calculations
 - Strain-modulated hopping parameters
 
+## Authors:
+- Naif Hadadi
+- Adel Abbout
